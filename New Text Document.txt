@@ -1,3 +1,5 @@
 chưa merge
 
 cb merge
+
+thu fix bug
