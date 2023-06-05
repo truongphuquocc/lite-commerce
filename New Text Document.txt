@@ -2,4 +2,4 @@ chưa merge
 
 cb merge
 
-thu fix bug
+thu fix bug => fix bug com
